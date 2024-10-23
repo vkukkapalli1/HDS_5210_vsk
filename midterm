@@ -3,6 +3,16 @@
     {
       "cell_type": "markdown",
       "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/vkukkapalli1/HDS_5210_vsk/blob/main/midterm\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
         "id": "A9TY92lCeBAx"
       },
       "source": [
@@ -34,7 +44,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 122,
+      "execution_count": 29,
       "metadata": {
         "id": "vHUzte3HeBBA"
       },
@@ -56,7 +66,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 123,
+      "execution_count": 30,
       "metadata": {
         "id": "MO4dzacUeBBH"
       },
@@ -104,9 +114,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "fmjNbbE9eUcB",
-        "outputId": "45ead75f-ed91-4cad-e703-767374bf63f2"
+        "outputId": "bb1197fa-812f-459d-fff5-596041be2162"
       },
-      "execution_count": 124,
+      "execution_count": 31,
       "outputs": [
         {
           "output_type": "stream",
@@ -137,9 +147,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "bI_VDHsmenCn",
-        "outputId": "c345bb64-76c1-46da-b7f0-180c633b5efe"
+        "outputId": "0db7dc6b-4dd7-477d-8d2f-00c5a0427e2c"
       },
-      "execution_count": 125,
+      "execution_count": 32,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -149,7 +159,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 125
+          "execution_count": 32
         }
       ]
     },
@@ -163,9 +173,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "utKADRoOenWd",
-        "outputId": "35189d7a-b2a4-4757-bd33-d3aa253a959d"
+        "outputId": "6bdef0cb-bbac-49d5-d7c2-3cec001a8b82"
       },
-      "execution_count": 126,
+      "execution_count": 33,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -175,7 +185,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 126
+          "execution_count": 33
         }
       ]
     },
@@ -190,7 +200,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 127,
+      "execution_count": 34,
       "metadata": {
         "id": "D10YsCXbeBBJ"
       },
@@ -288,9 +298,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "8P7VYDkQe49W",
-        "outputId": "51c74313-59e4-4a29-b0a8-ccb7c4e3c88f"
+        "outputId": "bab7386b-bffc-4230-b80b-b54f4049a9a9"
       },
-      "execution_count": 128,
+      "execution_count": 35,
       "outputs": [
         {
           "output_type": "stream",
@@ -331,9 +341,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "Q6C1S76be5Zo",
-        "outputId": "8ff6f57e-8b54-44df-805a-501805db5148"
+        "outputId": "b4167413-d715-4cfe-82c0-0331c130df40"
       },
-      "execution_count": 129,
+      "execution_count": 36,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -343,7 +353,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 129
+          "execution_count": 36
         }
       ]
     },
@@ -355,12 +365,12 @@
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
-          "height": 280
+          "height": 297
         },
         "id": "nUnvIeZ1fAnK",
-        "outputId": "7dea3c2f-7bce-4d9e-f940-267aa9569a8f"
+        "outputId": "11305a66-cb69-44e2-a8c7-0aaea4c7f758"
       },
-      "execution_count": 130,
+      "execution_count": 38,
       "outputs": [
         {
           "output_type": "error",
@@ -369,8 +379,8 @@
           "traceback": [
             "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
             "\u001b[0;31mValueError\u001b[0m                                Traceback (most recent call last)",
-            "\u001b[0;32m<ipython-input-130-19c40fd205f5>\u001b[0m in \u001b[0;36m<cell line: 1>\u001b[0;34m()\u001b[0m\n\u001b[0;32m----> 1\u001b[0;31m \u001b[0mbode_score\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;36m22.3\u001b[0m\u001b[0;34m,\u001b[0m\u001b[0;36m200\u001b[0m\u001b[0;34m,\u001b[0m\u001b[0;34m'BREATHLESS WHEN DRESSING'\u001b[0m\u001b[0;34m,\u001b[0m\u001b[0;36m200\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m",
-            "\u001b[0;32m<ipython-input-127-ebaabf9e8416>\u001b[0m in \u001b[0;36mbode_score\u001b[0;34m(bmi_kg_per_m2, fev_pct, dyspnea_description, distance_in_meters)\u001b[0m\n\u001b[1;32m     40\u001b[0m     \u001b[0;31m# Points for FEV1 %\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     41\u001b[0m     \u001b[0;32mif\u001b[0m \u001b[0mfev_pct\u001b[0m \u001b[0;34m>\u001b[0m\u001b[0;36m100\u001b[0m \u001b[0;32mor\u001b[0m \u001b[0mfev_pct\u001b[0m \u001b[0;34m<\u001b[0m\u001b[0;36m0\u001b[0m \u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m---> 42\u001b[0;31m       \u001b[0;32mraise\u001b[0m \u001b[0mValueError\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;34m\"fev_pct is percentage and cannot be a value over 100 or less than 0.\"\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m     43\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     44\u001b[0m     \u001b[0;32mif\u001b[0m \u001b[0mfev_pct\u001b[0m \u001b[0;34m>=\u001b[0m \u001b[0;36m65\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
+            "\u001b[0;32m<ipython-input-38-19c40fd205f5>\u001b[0m in \u001b[0;36m<cell line: 1>\u001b[0;34m()\u001b[0m\n\u001b[0;32m----> 1\u001b[0;31m \u001b[0mbode_score\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;36m22.3\u001b[0m\u001b[0;34m,\u001b[0m\u001b[0;36m200\u001b[0m\u001b[0;34m,\u001b[0m\u001b[0;34m'BREATHLESS WHEN DRESSING'\u001b[0m\u001b[0;34m,\u001b[0m\u001b[0;36m200\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m",
+            "\u001b[0;32m<ipython-input-34-ebaabf9e8416>\u001b[0m in \u001b[0;36mbode_score\u001b[0;34m(bmi_kg_per_m2, fev_pct, dyspnea_description, distance_in_meters)\u001b[0m\n\u001b[1;32m     40\u001b[0m     \u001b[0;31m# Points for FEV1 %\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     41\u001b[0m     \u001b[0;32mif\u001b[0m \u001b[0mfev_pct\u001b[0m \u001b[0;34m>\u001b[0m\u001b[0;36m100\u001b[0m \u001b[0;32mor\u001b[0m \u001b[0mfev_pct\u001b[0m \u001b[0;34m<\u001b[0m\u001b[0;36m0\u001b[0m \u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m---> 42\u001b[0;31m       \u001b[0;32mraise\u001b[0m \u001b[0mValueError\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;34m\"fev_pct is percentage and cannot be a value over 100 or less than 0.\"\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m     43\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     44\u001b[0m     \u001b[0;32mif\u001b[0m \u001b[0mfev_pct\u001b[0m \u001b[0;34m>=\u001b[0m \u001b[0;36m65\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
             "\u001b[0;31mValueError\u001b[0m: fev_pct is percentage and cannot be a value over 100 or less than 0."
           ]
         }
@@ -387,9 +397,9 @@
           "height": 280
         },
         "id": "ufq8S5j-fRBG",
-        "outputId": "3ce1968f-f276-46bc-bb32-31c29107cddc"
+        "outputId": "7928d92e-2bf1-45f3-c3c0-3769c6decff2"
       },
-      "execution_count": 131,
+      "execution_count": 39,
       "outputs": [
         {
           "output_type": "error",
@@ -398,8 +408,8 @@
           "traceback": [
             "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
             "\u001b[0;31mValueError\u001b[0m                                Traceback (most recent call last)",
-            "\u001b[0;32m<ipython-input-131-103055d43e03>\u001b[0m in \u001b[0;36m<cell line: 1>\u001b[0;34m()\u001b[0m\n\u001b[0;32m----> 1\u001b[0;31m \u001b[0mbode_score\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;36m21\u001b[0m\u001b[0;34m,\u001b[0m\u001b[0;36m60\u001b[0m\u001b[0;34m,\u001b[0m\u001b[0;34m'BREATHLESS WHEN DRESSING'\u001b[0m\u001b[0;34m,\u001b[0m\u001b[0;34m-\u001b[0m\u001b[0;36m20\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m",
-            "\u001b[0;32m<ipython-input-127-ebaabf9e8416>\u001b[0m in \u001b[0;36mbode_score\u001b[0;34m(bmi_kg_per_m2, fev_pct, dyspnea_description, distance_in_meters)\u001b[0m\n\u001b[1;32m     63\u001b[0m     \u001b[0;31m# Points for 6-minute walk distance\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     64\u001b[0m     \u001b[0;32mif\u001b[0m \u001b[0mdistance_in_meters\u001b[0m \u001b[0;34m<\u001b[0m\u001b[0;36m0\u001b[0m \u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m---> 65\u001b[0;31m       \u001b[0;32mraise\u001b[0m \u001b[0mValueError\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;34m\"Distance cannot be a negative value.\"\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m     66\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     67\u001b[0m     \u001b[0;32mif\u001b[0m \u001b[0mdistance_in_meters\u001b[0m \u001b[0;34m>=\u001b[0m \u001b[0;36m350\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
+            "\u001b[0;32m<ipython-input-39-103055d43e03>\u001b[0m in \u001b[0;36m<cell line: 1>\u001b[0;34m()\u001b[0m\n\u001b[0;32m----> 1\u001b[0;31m \u001b[0mbode_score\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;36m21\u001b[0m\u001b[0;34m,\u001b[0m\u001b[0;36m60\u001b[0m\u001b[0;34m,\u001b[0m\u001b[0;34m'BREATHLESS WHEN DRESSING'\u001b[0m\u001b[0;34m,\u001b[0m\u001b[0;34m-\u001b[0m\u001b[0;36m20\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m",
+            "\u001b[0;32m<ipython-input-34-ebaabf9e8416>\u001b[0m in \u001b[0;36mbode_score\u001b[0;34m(bmi_kg_per_m2, fev_pct, dyspnea_description, distance_in_meters)\u001b[0m\n\u001b[1;32m     63\u001b[0m     \u001b[0;31m# Points for 6-minute walk distance\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     64\u001b[0m     \u001b[0;32mif\u001b[0m \u001b[0mdistance_in_meters\u001b[0m \u001b[0;34m<\u001b[0m\u001b[0;36m0\u001b[0m \u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m---> 65\u001b[0;31m       \u001b[0;32mraise\u001b[0m \u001b[0mValueError\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;34m\"Distance cannot be a negative value.\"\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m     66\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     67\u001b[0m     \u001b[0;32mif\u001b[0m \u001b[0mdistance_in_meters\u001b[0m \u001b[0;34m>=\u001b[0m \u001b[0;36m350\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
             "\u001b[0;31mValueError\u001b[0m: Distance cannot be a negative value."
           ]
         }
@@ -416,7 +426,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 132,
+      "execution_count": 40,
       "metadata": {
         "id": "HKfISbGxeBBL"
       },
@@ -472,9 +482,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "fHPAATH1fcjt",
-        "outputId": "ef45a982-a5a1-49b9-d239-13e4c4e0159c"
+        "outputId": "4f1c5041-ea09-46b9-a23e-6ddac50ec94a"
       },
-      "execution_count": 133,
+      "execution_count": 41,
       "outputs": [
         {
           "output_type": "stream",
@@ -510,9 +520,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "rIJpDoSJfgIt",
-        "outputId": "924edc56-a50d-4663-8d0a-348b1881df83"
+        "outputId": "13f77517-f3c9-4da5-af15-fee0f42ca453"
       },
-      "execution_count": 134,
+      "execution_count": 42,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -522,7 +532,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 134
+          "execution_count": 42
         }
       ]
     },
@@ -537,9 +547,9 @@
           "height": 263
         },
         "id": "5L0d99TLfj6T",
-        "outputId": "5ac71413-eb5c-43ee-810c-0fb4ca3a0e37"
+        "outputId": "6d885cd5-adbe-41fd-f6cf-04fc059f09bb"
       },
-      "execution_count": 135,
+      "execution_count": 43,
       "outputs": [
         {
           "output_type": "error",
@@ -548,8 +558,8 @@
           "traceback": [
             "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
             "\u001b[0;31mValueError\u001b[0m                                Traceback (most recent call last)",
-            "\u001b[0;32m<ipython-input-135-eb20aaa51870>\u001b[0m in \u001b[0;36m<cell line: 1>\u001b[0;34m()\u001b[0m\n\u001b[0;32m----> 1\u001b[0;31m \u001b[0mbode_risk\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;36m100\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m",
-            "\u001b[0;32m<ipython-input-132-dde8cde4e690>\u001b[0m in \u001b[0;36mbode_risk\u001b[0;34m(bode_score)\u001b[0m\n\u001b[1;32m     23\u001b[0m     \u001b[0;31m#to rule out the values that are not possible to obtain in bode_score\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     24\u001b[0m     \u001b[0;32mif\u001b[0m \u001b[0mbode_score\u001b[0m \u001b[0;34m<\u001b[0m\u001b[0;36m0\u001b[0m \u001b[0;32mor\u001b[0m \u001b[0mbode_score\u001b[0m \u001b[0;34m>\u001b[0m\u001b[0;36m10\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m---> 25\u001b[0;31m         \u001b[0;32mraise\u001b[0m \u001b[0mValueError\u001b[0m \u001b[0;34m(\u001b[0m\u001b[0;34m\"The entered BODE score is ineligible.\"\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m     26\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     27\u001b[0m     \u001b[0;31m#to determine the BODE RISK\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
+            "\u001b[0;32m<ipython-input-43-eb20aaa51870>\u001b[0m in \u001b[0;36m<cell line: 1>\u001b[0;34m()\u001b[0m\n\u001b[0;32m----> 1\u001b[0;31m \u001b[0mbode_risk\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;36m100\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m",
+            "\u001b[0;32m<ipython-input-40-dd6fb33cd324>\u001b[0m in \u001b[0;36mbode_risk\u001b[0;34m(bode_score)\u001b[0m\n\u001b[1;32m     23\u001b[0m     \u001b[0;31m#to rule out the values that are not possible to obtain in bode_score\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     24\u001b[0m     \u001b[0;32mif\u001b[0m \u001b[0mbode_score\u001b[0m \u001b[0;34m<\u001b[0m\u001b[0;36m0\u001b[0m \u001b[0;32mor\u001b[0m \u001b[0mbode_score\u001b[0m \u001b[0;34m>\u001b[0m\u001b[0;36m10\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m---> 25\u001b[0;31m         \u001b[0;32mraise\u001b[0m \u001b[0mValueError\u001b[0m \u001b[0;34m(\u001b[0m\u001b[0;34m\"The entered BODE score is ineligible.\"\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m     26\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     27\u001b[0m     \u001b[0;31m#to determine the BODE RISK\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
             "\u001b[0;31mValueError\u001b[0m: The entered BODE score is ineligible."
           ]
         }
@@ -566,9 +576,9 @@
           "height": 263
         },
         "id": "PX9k48mDfvHL",
-        "outputId": "c6a4feef-87a1-4755-8445-39ffadc3361e"
+        "outputId": "8581e8a2-362f-477a-b093-66a248089a02"
       },
-      "execution_count": 136,
+      "execution_count": 44,
       "outputs": [
         {
           "output_type": "error",
@@ -577,8 +587,8 @@
           "traceback": [
             "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
             "\u001b[0;31mValueError\u001b[0m                                Traceback (most recent call last)",
-            "\u001b[0;32m<ipython-input-136-419c8132bce1>\u001b[0m in \u001b[0;36m<cell line: 1>\u001b[0;34m()\u001b[0m\n\u001b[0;32m----> 1\u001b[0;31m \u001b[0mbode_risk\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;34m-\u001b[0m\u001b[0;36m2\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m",
-            "\u001b[0;32m<ipython-input-132-dde8cde4e690>\u001b[0m in \u001b[0;36mbode_risk\u001b[0;34m(bode_score)\u001b[0m\n\u001b[1;32m     23\u001b[0m     \u001b[0;31m#to rule out the values that are not possible to obtain in bode_score\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     24\u001b[0m     \u001b[0;32mif\u001b[0m \u001b[0mbode_score\u001b[0m \u001b[0;34m<\u001b[0m\u001b[0;36m0\u001b[0m \u001b[0;32mor\u001b[0m \u001b[0mbode_score\u001b[0m \u001b[0;34m>\u001b[0m\u001b[0;36m10\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m---> 25\u001b[0;31m         \u001b[0;32mraise\u001b[0m \u001b[0mValueError\u001b[0m \u001b[0;34m(\u001b[0m\u001b[0;34m\"The entered BODE score is ineligible.\"\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m     26\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     27\u001b[0m     \u001b[0;31m#to determine the BODE RISK\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
+            "\u001b[0;32m<ipython-input-44-419c8132bce1>\u001b[0m in \u001b[0;36m<cell line: 1>\u001b[0;34m()\u001b[0m\n\u001b[0;32m----> 1\u001b[0;31m \u001b[0mbode_risk\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;34m-\u001b[0m\u001b[0;36m2\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m",
+            "\u001b[0;32m<ipython-input-40-dd6fb33cd324>\u001b[0m in \u001b[0;36mbode_risk\u001b[0;34m(bode_score)\u001b[0m\n\u001b[1;32m     23\u001b[0m     \u001b[0;31m#to rule out the values that are not possible to obtain in bode_score\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     24\u001b[0m     \u001b[0;32mif\u001b[0m \u001b[0mbode_score\u001b[0m \u001b[0;34m<\u001b[0m\u001b[0;36m0\u001b[0m \u001b[0;32mor\u001b[0m \u001b[0mbode_score\u001b[0m \u001b[0;34m>\u001b[0m\u001b[0;36m10\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m---> 25\u001b[0;31m         \u001b[0;32mraise\u001b[0m \u001b[0mValueError\u001b[0m \u001b[0;34m(\u001b[0m\u001b[0;34m\"The entered BODE score is ineligible.\"\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m     26\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     27\u001b[0m     \u001b[0;31m#to determine the BODE RISK\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
             "\u001b[0;31mValueError\u001b[0m: The entered BODE score is ineligible."
           ]
         }
@@ -595,7 +605,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 137,
+      "execution_count": 48,
       "metadata": {
         "id": "oRkh28l_eBBN"
       },
@@ -604,7 +614,7 @@
         "def hospital_data(file_path):\n",
         "  \"\"\"\n",
         "\n",
-        "  hospital data would consist of the information from hospitals(1).json\n",
+        "  hospital data would consist of the information from hospitals.json\n",
         "\n",
         "  this function would give me loaded hospital data as a dictionary\n",
         "\n",
@@ -629,7 +639,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 144,
+      "execution_count": 49,
       "metadata": {
         "id": "Nw8FCWngeBBP"
       },
@@ -759,7 +769,7 @@
         "            BODEscore = bode_score(bmi, fev_pct, dyspnea_description, distance_in_meters)\n",
         "            BODErisk = bode_risk(BODEscore)\n",
         "\n",
-        "            patient_data.append([name, BODEscore, BODErisk, hospital])\n",
+        "            patient_data.append([name, BODEscore, f\"{BODErisk}%\", hospital])\n",
         "\n",
         "            if hospital not in hospitals_data:\n",
         "                hospitals_data[hospital] = {'count': 0, 'total_score': 0, 'total_risk': 0}\n",
@@ -770,7 +780,7 @@
         "\n",
         "    patient_results.extend(patient_data)\n",
         "\n",
-        "    # Process hospital data\n",
+        "\n",
         "    for hospital, data in hospitals_data.items():\n",
         "        beds = hospital_beds[hospital]\n",
         "        copd_count = data['count']\n",
@@ -791,8 +801,7 @@
         "    with open(hospital_output_csv, 'w', newline='') as csvfile:\n",
         "        writer = csv.writer(csvfile)\n",
         "        writer.writerows(hospital_output_list)\n",
-        "        print(f\"Hospital output CSV created: {hospital_output_csv}\")\n",
-        ""
+        "        print(f\"Hospital output CSV created: {hospital_output_csv}\")\n"
       ]
     },
     {
@@ -805,9 +814,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "sfgsJsSul9nQ",
-        "outputId": "cfbe7498-3f45-4a90-8a8e-2a4e44a47f89"
+        "outputId": "1f83097a-845a-457a-9aad-6cda2e57b551"
       },
-      "execution_count": 147,
+      "execution_count": 50,
       "outputs": [
         {
           "output_type": "stream",
@@ -821,27 +830,12 @@
     },
     {
       "cell_type": "code",
-      "source": [
-        "import os\n",
-        "print(os.listdir(\"/content\"))\n"
-      ],
+      "source": [],
       "metadata": {
-        "id": "dJoaLIdxry04",
-        "outputId": "2f194252-84c6-4493-cda6-6ca96d3e3c32",
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        }
+        "id": "vFE0MzdmtrzW"
       },
-      "execution_count": 148,
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "['.config', '.ipynb_checkpoints', 'patient.csv', 'patient_output.csv', 'hospital_output.csv', 'hospitals.json', 'sample_data']\n"
-          ]
-        }
-      ]
+      "execution_count": null,
+      "outputs": []
     }
   ],
   "metadata": {
@@ -849,7 +843,8 @@
       "name": "python"
     },
     "colab": {
-      "provenance": []
+      "provenance": [],
+      "include_colab_link": true
     },
     "kernelspec": {
       "name": "python3",
